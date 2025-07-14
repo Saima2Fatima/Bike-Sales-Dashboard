@@ -38,19 +38,18 @@ Key Insight: Middle-aged customers show the highest likelihood of purchasing a b
 A dual-line chart showing the number of customers (Yes/No to purchase) across various commute distances.
 Key Insight: Customers commuting 0–1 miles have the highest bike purchase count.
 
- Interactive Slicers:
- 
-Users can interact with the dashboard by selecting filters on the left, such as:
+4. Interactive Slicers:
+   Users can interact with the dashboard by selecting filters on the left, such as:
 
-Marital Status
+   Marital Status
 
-Region (Europe, North America, Pacific)
+   Region (Europe, North America, Pacific)
 
-Education Level
+   Education Level
 
-and Home Ownership
+   and Home Ownership
 
-These slicers dynamically update all charts in real-time to allow for custom exploration.
+  These slicers dynamically update all charts in real-time to allow for custom exploration.
 
 Key Learnings:
 
